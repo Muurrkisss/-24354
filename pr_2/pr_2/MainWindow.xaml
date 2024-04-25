@@ -1,0 +1,32 @@
+﻿<Window x:Class="pr_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pr_2"
+        mc:Ignorable="d"
+        Title="ИСРПО" Height="450" Width="800">
+    <Grid Background="AliceBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="1">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Content="Имя:"/>
+                <TextBox x:Name="nameTextBox" Width="393" Height="23" RenderTransformOrigin="0.503,0.283"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Content="Фамилия:"/>
+                <TextBox x:Name="surnameTextBox" Width="367" Height="23" RenderTransformOrigin="0.449,0.501"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Content="Дата рождения:"/>
+                <DatePicker IsTodayHighlighted="True" x:Name="birthdayDatePicker" Width="154"/>
+            </StackPanel>
+            <Button Content="Добавить" Width="200" Click="addPersonbtn" Height="40"/>
+            <Label Content=""/>
+        </StackPanel>
+    </Grid>
+</Window>

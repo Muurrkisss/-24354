@@ -1,0 +1,30 @@
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\bin\Debug\pr_2.exe.config
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\bin\Debug\pr_2.exe
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\bin\Debug\pr_2.pdb
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\obj\Debug\pr_2.csproj.AssemblyReference.cache
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\obj\Debug\MainWindow.g.cs
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\obj\Debug\App.g.cs
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\obj\Debug\pr_2_MarkupCompile.cache
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\obj\Debug\pr_2_MarkupCompile.lref
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\obj\Debug\MainWindow.baml
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\obj\Debug\pr_2.g.resources
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\obj\Debug\pr_2.Properties.Resources.resources
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\obj\Debug\pr_2.csproj.GenerateResource.cache
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\obj\Debug\pr_2.csproj.CoreCompileInputs.cache
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\obj\Debug\pr_2.exe
+C:\Users\qtazv\OneDrive\Рабочий стол\Учеба\!МДК 02.02 ИСРПО\Работы\pr_2\pr_2\obj\Debug\pr_2.pdb
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\bin\Debug\pr_2.exe.config
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\bin\Debug\pr_2.exe
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\bin\Debug\pr_2.pdb
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\obj\Debug\pr_2.csproj.AssemblyReference.cache
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\obj\Debug\MainWindow.g.cs
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\obj\Debug\App.g.cs
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\obj\Debug\pr_2_MarkupCompile.cache
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\obj\Debug\pr_2_MarkupCompile.lref
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\obj\Debug\MainWindow.baml
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\obj\Debug\pr_2.g.resources
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\obj\Debug\pr_2.Properties.Resources.resources
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\obj\Debug\pr_2.csproj.GenerateResource.cache
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\obj\Debug\pr_2.csproj.CoreCompileInputs.cache
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\obj\Debug\pr_2.exe
+C:\Users\Evdok\OneDrive\Рабочий стол\all_mdk-main\pr_2\pr_2\obj\Debug\pr_2.pdb
